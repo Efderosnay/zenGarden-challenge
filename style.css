@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background-image: url("../img/huntington.png");
+    background-image: url("huntington.png");
     background-size: 100%;
     padding: 60px 60px;
     padding-top: 33px;
@@ -30,7 +30,7 @@ h1{
     font-size: 30px;
 }
 h2 { 
-    background: url(../img/zen.svg);
+    background: url("zen.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: 35% 50%;
@@ -82,7 +82,7 @@ h3{
     width: 80%;
 }
 .participation, .benefits {
-    background-image: url("../img/bamboo.png");
+    background-image: url("bamboo.png");
     background-color: rgb(104, 135, 117);
     background-position: fixed;
     padding: 10px;
@@ -256,7 +256,7 @@ background-color:white;
 }
 
 .zen-resources{
-    background-image: url(../img/bamboo.png);
+    background-image: url("bamboo.png");
     background-color:rgb(155, 202, 173);
     margin: 0 auto;
     height: 191px;
